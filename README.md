@@ -1,6 +1,6 @@
 Recording Gear
 ==============
-_Almost everything is built by myself or previously used._
+_Almost everything is DIY or previously used._
 
 Microphones
 -----------
