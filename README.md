@@ -39,7 +39,7 @@ Outboard
 
 Console
 -------
-- [Midas VeniceF 32](http://www.midasconsoles.com/Products/VF32.aspx)
+- [Midas VeniceF](http://www.midasconsoles.com/Products/VF32.aspx) 32 channel
 
 _Ok, it's a weird story how we ended up with this, starting with our desire to make better, quicker headphone mixes 
 and ending in me somehow making a profit off the purchase._
