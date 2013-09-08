@@ -1,7 +1,6 @@
 Recording Gear
 ==============
-
-Almost everything is DIY, built by myself, or previously used.
+_Almost everything is built by myself or previously used._
 
 Microphones
 -----------
@@ -48,3 +47,14 @@ and ending in me somehow making a profit off the purchase._
 _What it means for our project is that we can record and play back 32 tracks at a time._
 
 _Everything else aside, I'm actually pretty impressed with it. There's a lot of console here for the price._
+
+Amps
+----
+- [Budda SD18](http://www.budda.com/gear/gear.cfm?series=618) and [matching 2x12 cabinet](http://www.budda.com/gear/gear.cfm?series=505) (Kurt, Rhythm Guiter)
+- [Egnater Tweaker 88](http://egnateramps.com/EgnaterProducts/Tweaker/Tweaker88/Tweaker88.html) and [matching 2x12 cabinet](http://egnateramps.com/EgnaterProducts/Tweaker/TweakerCabinets/Tweaker212x.html) (Connor, Lead guitar)
+
+Instruments
+-----------
+- Gibson SG (Kurt, Rhythm guitar)
+- [PRS SE Paul Allender](http://www.prsguitars.com/sepaulallender/) (Connor, Rhythm Guitar)
+- [G&L ASAT Bass](http://www.glguitars.com/instruments/USA/basses/asat-bass/index.asp) (Evan, Bass)
