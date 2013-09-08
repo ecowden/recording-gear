@@ -27,7 +27,7 @@ and discrete.
 - 6x [JLM BA](http://www.jlmaudio.com/shop/index.php?_a=viewProd&productId=6), configured as follows:
      - 2x "Fake 312" (1:10 Input TX, 2520-style Op Amp, 2503-style Output TX)
      - 2x "Clean" (Jensen 1:5 Input TX, Forssell 993 Op Amp)
-     - 2x "Crossover" (10468 Input TX, 2520-style Op Amp, 1:1 Output TX)
+     - 2x "Mutt" (10468 Input TX, 2520-style Op Amp, 1:1 Output TX)
 
 Outboard
 --------
