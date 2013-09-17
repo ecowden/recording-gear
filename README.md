@@ -14,6 +14,7 @@ Microphones
  - 4x [Heil PR30](http://www.heilsound.com/pro/microphones/pr-30)
  - 3x [Heil PR20](http://www.heilsound.com/pro/microphones/pr-20)
  - 3x [Heil Handi Mic](http://www.heilsound.com/pro/microphones/handi-mic-pro-plus)
+ - 1x [Sure SM57](http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone)
 
 Microphone Preamps
 ------------------
